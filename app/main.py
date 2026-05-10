@@ -24,4 +24,8 @@ async def root():
     Returns:
         Приветственное сообщение
     """
-    return {"message": "Hello, World!"}
+    return {
+        "message": "Hello, World!",
+        "environment": settings.environment,
+        "app_name": settings.app_name
+    }
