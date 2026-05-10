@@ -1,0 +1,2 @@
+{"timestamp": "2026-05-10T17:20:40.713399", "level": "WARNING", "name": "dotenv.main", "message": "python-dotenv could not parse statement starting at line 2", "module": "main", "function": "with_warn_for_invalid_lines", "line": 35}
+{"timestamp": "2026-05-10T17:20:40.713399", "level": "WARNING", "name": "dotenv.main", "message": "python-dotenv could not parse statement starting at line 10", "module": "main", "function": "with_warn_for_invalid_lines", "line": 35}
